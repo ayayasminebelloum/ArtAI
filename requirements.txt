@@ -1,0 +1,16 @@
+Flask==2.2.3
+Werkzeug>=2.2.0,<2.3.0
+scikit-learn
+sentence-transformers
+transformers
+numpy<2
+torch
+wikipedia-api
+nltk
+pandas
+matplotlib
+faiss-cpu
+datasets
+evaluate
+accelerate>=0.26.0
+en_core_web_md
