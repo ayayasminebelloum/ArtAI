@@ -1,4 +1,4 @@
-# ArtifAI: An Interactive Art History Chatbot
+# ArtAI: An Interactive Art History Chatbot
 
 ArtifAI is an intelligent chatbot that allows users to interact with and learn from artists throughout history. Using advanced natural language processing and machine learning techniques, it provides informative responses about artists, their works, and their historical context.
 
